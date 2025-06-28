@@ -57,7 +57,8 @@
     "cookie-parser": "^1.4.6",
     "express-session": "^1.17.3",
     "connect-redis": "^7.1.0",
-    "@sentry/node": "^7.81.1"
+    "@sentry/node": "^7.81.1",
+    "africastalking": "^0.6.1"
   },
   "devDependencies": {
     "nodemon": "^3.0.2",
